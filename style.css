@@ -23,8 +23,24 @@
     border-radius: 12px;
     box-shadow: 7px 7px 20px grey;
     padding: 20px;
+    text-align: center;
 }
 .card-footer{
     background-color: white;
     border-top: none;
+}
+.cat-bag{
+    border: none;
+    height: 180px;
+    margin-top: 150px;
+}
+.cat-parfium{
+    border: none;
+    height: 180px;
+    margin: 80px
+}
+.cat-shoes{
+    border: none;
+    margin: 80px;
+    height: 180px;
 }
