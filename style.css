@@ -29,18 +29,32 @@
     background-color: white;
     border-top: none;
 }
-.cat-bag{
-    border: none;
-    height: 180px;
-    margin-top: 150px;
+
+hr{
+    background-color:  #f78316;
+    padding: 3px;
+    width: 70px;
+    border-radius: 10px;
+
 }
-.cat-parfium{
-    border: none;
-    height: 180px;
-    margin: 80px
+.sizing{
+    margin-bottom: 30px;
 }
-.cat-shoes{
-    border: none;
-    margin: 80px;
-    height: 180px;
+
+.perfume-shoe{
+    box-shadow: 10px 10px 40px rgb(221, 225, 243);
+    border-radius: 10px 5px 20px 5px;
+    padding: 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+#bag{
+    box-shadow: 10px 10px 40px rgb(221, 225, 243);
+    padding: 50px;
+    border-radius: 5px 10px 5px 20px;
+    
+}
+.alignment{
+    text-align: center;
 }
